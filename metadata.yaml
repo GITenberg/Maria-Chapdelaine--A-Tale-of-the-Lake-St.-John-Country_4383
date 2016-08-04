@@ -1,0 +1,42 @@
+_repo: Maria-Chapdelaine--A-Tale-of-the-Lake-St.-John-Country_4383
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Blake, W. H.
+    gutenberg_agent_id: '4484'
+    url: http://www.gutenberg.org/2009/agents/4484
+creator:
+  author:
+    agent_name: Hémon, Louis
+    alias: Hemon, Louis
+    birthdate: 1880
+    deathdate: 1913
+    gutenberg_agent_id: '5112'
+    url: http://www.gutenberg.org/2009/agents/5112
+    wikipedia: http://fr.wikipedia.org/wiki/Louis_Hémon
+description: Maria Chapdelaine was a French-Canadian girl whose family lived in the
+  northern part of Quebec province near Lake St. John, a country to which spring came
+  very late in the year and the winters, always severe, came too soon. Maria's father,
+  Samuel Chapdelaine, had moved his family several times to new locations in the north
+  country. Each time, he hoped to get away from neighbors and civilization, for he
+  was a man who took great delight in the hard work of clearing land from the wilderness
+  but disliked to farm that land after it had been won.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Québec (Province) -- Fiction'
+- !lcsh 'Québecois fiction -- Translations into English'
+- !lcsh 'Frontier and pioneer life -- Québec (Province) -- Fiction'
+- !lcsh 'French-Canadians -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PQ'
+- GITenberg
+title: 'Maria Chapdelaine: A Tale of the Lake St. John Country'
+url: http://www.gutenberg.org/ebooks/4383
